@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on ... PHP, Laravel
 - 🌱 I’m currently learning ...  API and VueJS
 - 👯 I’m looking to collaborate on ... PHP and Laravel
-- 🤔 I’m looking for help with ...Clound Computing
+- 🤔 I’m looking for help with ...Cloud Computing
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...https://www.linkedin.com/in/muhammad-hannan/
 - 😄 Pronouns: ...He/Him
