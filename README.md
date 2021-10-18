@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...https://www.linkedin.com/in/muhammad-hannan/
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... n/a
 -->
