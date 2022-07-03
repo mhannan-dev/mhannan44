@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laravel and VueJS**
 
-- 🌱 I’m currently learning **API, VueJS**
+- 🌱 I’m currently learning **VueJS**
 
 - 👯 I’m looking to collaborate on **PHP and Laravel**
 
