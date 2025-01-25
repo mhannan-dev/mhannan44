@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mhannan44" target="blank"><img src="https://img.shields.io/twitter/follow/mhannan44?logo=twitter&style=for-the-badge" alt="mhannan44" /></a> </p>
 
-- 🔭 I’m currently working on [OnestCRM](#)
+- 🔭 I’m currently working on [Docmedilink](#)
 
-- 🌱 I’m currently learning **Vue JS, Nuxt JS, Webflow**
+- 🌱 I’m currently learning **Vue JS, Nuxt JS, NestJS**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mhannan44/](https://www.linkedin.com/in/mhannan44/)
 
