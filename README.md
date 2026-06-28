@@ -41,6 +41,10 @@ Specialized in building scalable **multi-tenant SaaS ecosystems**, robust FinTec
       <br />JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
       <br />Vue.js / Inertia
     </td>
@@ -48,12 +52,12 @@ Specialized in building scalable **multi-tenant SaaS ecosystems**, robust FinTec
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <br />Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       <br />MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
       <br />PostgreSQL
@@ -71,17 +75,13 @@ Specialized in building scalable **multi-tenant SaaS ecosystems**, robust FinTec
       <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-      <br />Nginx
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       <br />Ubuntu/Linux
     </td>
   </tr>
 </table>
 
-**Testing & Workflow:** PestPHP, PHPUnit, GitHub Actions (CI/CD), Postman, Agile/Scrum.
+**Testing & Workflow:** PestPHP, PHPUnit, GitHub Actions (CI/CD), Postman, Nginx, Agile/Scrum.
 
 ---
 
